@@ -1,0 +1,68 @@
+body{
+    background-color:cornsilk;
+}
+.search{
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+}
+
+button{
+    font-size: 20px;
+    border-radius: 5px;
+    padding:5px;
+    background-color: lightgreen;
+    margin-top: 15px;
+    cursor: pointer;
+    color:black;
+}
+button:hover{
+    background-color: lightgrey;
+   
+}
+label{
+   
+    color:darkviolet;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input{
+    font-size: 20px;
+    border-radius: 5px;
+    /* background-color: lightblue; */
+    text-align: center;
+    color:black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.container{
+    align-items: center;
+    text-align: center;
+    color:red;
+    font-size:30px;
+   
+}
+
+
+#num1{
+    background-color:lightgrey;
+    font-family:'Times New Roman', Times, serif;
+    min-width:450px;
+    max-width:575px;
+    color:black;
+    font-size: 30px;
+    align-content: center;
+    align-items: center;
+    border-radius: 10px;
+    text-align:justify;
+    margin-left: 30%;
+    padding:20px;
+    margin-top: 20px;
+    padding-left:50px;
+    
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
+}
+span{
+    color:darkolivegreen;
+    font-weight: bold;
+}
